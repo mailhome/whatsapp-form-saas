@@ -128,3 +128,7 @@
     @apply bg-background text-foreground;
     }
 }
+
+.container-wrapper {
+    @apply container mx-auto px-4;
+}
